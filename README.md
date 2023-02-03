@@ -24,7 +24,7 @@
 ## Installation
 
   ```
-  $ git clone https://example.com
+  $ git clone https://github.com/EntoineH/Social-media-web-app.git
   $ cd ../path/to/the/file
   $ npm -i
   $ npm start
