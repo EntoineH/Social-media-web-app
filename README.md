@@ -13,13 +13,13 @@
 
 ## Technologies
 
-  - ***React.js
-  - ***Nest.js 
-  - ***Docker 
-  - ***Docker-compose 
-  - ***Jest.js 
-  - ***Node.js 
-  - ***Graphql 
+  - ***React.js***
+  - ***Nest.js ***
+  - ***Docker ***
+  - ***Docker-compose ***
+  - ***Jest.js ***
+  - ***Node.js ***
+  - ***Graphql ***
 
 ## Installation
 
