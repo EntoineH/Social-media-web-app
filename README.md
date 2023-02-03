@@ -18,4 +18,4 @@
 
 # Installation
 
-  '''npm -i'''
+  ''' npm -i '''
