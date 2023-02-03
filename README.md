@@ -31,13 +31,11 @@
   $ npm start
   ```
   
-  Side information: To use the application in a special environment use ```lorem ipsum``` to start
+  Side information: To use the application in a special environment use ```GrosPipe``` to start
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+
 ## FAQs
 ***
 A list of frequently asked questions
