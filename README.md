@@ -1,7 +1,6 @@
 # Social-media-web-app
 
 ## Table of Contents
-***
 1. [Introduction](#Introduction)
 2. [Technologies](#Technologies)
 3. [Installation](#Installation)
