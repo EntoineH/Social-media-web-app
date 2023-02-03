@@ -1,6 +1,6 @@
 # Social-media-web-app
 
-![Screenshot](web-app/src/assets/images/logo.png)
+![Screenshot](banner.png)
 
 ## Table of Contents
 1. [Introduction](#Introduction)
