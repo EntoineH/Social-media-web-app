@@ -25,7 +25,7 @@
 
   ```
   $ git clone https://github.com/EntoineH/Social-media-web-app.git
-  $ cd ../path/to/the/file
+  $ cd web-app/
   $ npm -i
   $ npm start
   ```
