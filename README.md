@@ -1,5 +1,7 @@
 # Social-media-web-app
 
+![Screenshot](web-app/src/assets/images/logo.png)
+
 ## Table of Contents
 1. [Introduction](#Introduction)
 2. [Technologies](#Technologies)
