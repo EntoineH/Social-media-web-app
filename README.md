@@ -17,3 +17,5 @@
   - Graphql 
 
 # Installation
+
+  '''npm -i'''
